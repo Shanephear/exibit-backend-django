@@ -1,0 +1,8 @@
+# dependencies
+/.venv
+
+# Storage folder
+
+/media
+
+db.sqlite3
